@@ -1,4 +1,4 @@
-public class UserInfo { // Creates the UserInfo class
+public class Assignment3 { // Creates the UserInfo class
 
     public static void main(String[] args) { // Starts the main method
 
