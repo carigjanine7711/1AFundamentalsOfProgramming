@@ -34,7 +34,7 @@ public class scholarshipBufferedReader {
                 }
                 else {
                 System.out.println("Application status: Further study");
-            }
+                }
 
         } catch (IOException e) {
             System.err.println("Error reading input stream.");
