@@ -9,7 +9,7 @@ public class grosspayScanner {
             System.out.print("Enter hourly pay: ");
             double Hourlypay = input.nextDouble();
 
-            System.out.print("Enter hours worked; ");
+            System.out.print("Enter hours worked: ");
             double Hoursworked = input.nextDouble();
 
         //Gross pay calculation
